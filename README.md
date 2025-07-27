@@ -2,6 +2,10 @@
 
 This Lightning Web Component (LWC) allows users to export a filtered list view of Salesforce records to Excel with just a few clicks. It supports dynamic field selection, record type filtering, and owner mapping logic.
 
+
+**Component Review **
+https://github.com/user-attachments/assets/d74d514e-ddcb-4527-90b1-b69b23ced33f
+
 ## 📦 Features
 
 - ✅ Export Salesforce records to Excel
