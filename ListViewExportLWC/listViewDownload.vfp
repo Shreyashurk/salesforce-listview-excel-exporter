@@ -1,0 +1,2 @@
+<apex:page standardController="Account" recordSetVar="accounts" extensions="ListViewExportController" action="{!redirectToLC}">
+</apex:page>
